@@ -1,25 +1,34 @@
-{
-  "name": "Hugo",
-  "bio": "full stack dev, DeFi enthusiast, and blockchain automation architect.",
-  "contact": {
-    "email": "hugo.devbr@gmail.com",
-    "github": "https://github.com/huguitossss"
-  },
-  "hobbies": [
-    "coding bots (snipers, scalpers, MEV...)",
-    "exploring DeFi protocols",
-    "automation & data analysis",
-    "clean UI + dark logic"
-  ],
-  "editor": "vscode (but terminal is home)",
-  "languages": [
-    "portuguese (native)",
-    "english (fluent)"
-  ],
-  "os": "Linux + WSL (Windows for gaming 😅)",
-  "project": {
-    "description": "Creator of Tenebris – a trading automation hub on Solana with real-time token scanning, sniper bots, scalpers & more.",
-    "repo": "https://github.com/seu-usuario/tenebris"
-  },
-  "fun-fact": "I'm probably wrapping SOL while you're reading this."
-}
+## 👋 Hello, I'm Hugo
+
+**Full stack dev, DeFi enthusiast, and blockchain automation architect.**
+
+---
+
+### 🧠 About me
+
+- 💼 **Job**: Full-stack developer focused on Web3 and DeFi automation  
+- ⚙️ **Project**: Creator of [Tenebris](https://github.com/seu-usuario/tenebris) – a trading automation hub on Solana with sniper bots, scalpers & more.  
+- 💬 **Languages**: Portuguese (native), English (fluent)  
+- 💻 **OS**: Linux + WSL (Windows for gaming 😅)  
+- 🔧 **Editor**: VSCode (but terminal is home)  
+- 📨 **Email**: hugo.devbr@gmail.com  
+- 🧑‍💻 **GitHub**: [Huguitossss](https://github.com/Huguitossss)  
+
+---
+
+### 🎯 Interests
+
+- 🧠 Coding bots (snipers, scalpers, MEV...)
+- 🌊 Exploring DeFi protocols
+- 📊 Automation & data analysis
+- 🎨 Clean UI + dark logic
+
+---
+
+### 🐱 Fun fact
+
+> "I'm probably wrapping SOL while you're reading this."
+
+---
+
+Thanks for stopping by 🚀
