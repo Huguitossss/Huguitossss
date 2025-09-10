@@ -18,7 +18,7 @@
 ### 🚀 Tech Stack
 
 💻 **Languages:**  
-`Python` | `JavaScript` | `TypeScript` | `PHP`  
+`Python` | `JavaScript` | `TypeScript` | `PHP` +
 
 ⚙️ **Frameworks & Tools:**  
 `React` | `React Native` | `Vue.js` | `Angular` | `Node.js` | `Supabase` | `Docker`  
