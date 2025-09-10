@@ -1,34 +1,56 @@
-## 👋 Hello, I'm Hugo
+# 👋 Hi, I'm Hugo
 
-**Full stack dev, DeFi enthusiast, and blockchain automation architect.**
-
----
-
-### 🧠 About me
-
-- 💼 **Job**: Full-stack developer focused on Web3 and DeFi automation  
-- ⚙️ **Project**: Creator of [Tenebris](https://github.com/seu-usuario/tenebris) – a trading automation hub on Solana with sniper bots, scalpers & more.  
-- 💬 **Languages**: Portuguese (native), English (fluent)  
-- 💻 **OS**: Linux + WSL (Windows for gaming 😅)  
-- 🔧 **Editor**: VSCode (but terminal is home)  
-- 📨 **Email**: hugo.devbr@gmail.com  
-- 🧑‍💻 **GitHub**: [Huguitossss](https://github.com/Huguitossss)  
+**Full-Stack Developer | Mobile & Web Solutions | Automation Enthusiast**
 
 ---
 
-### 🎯 Interests
+### 🧠 About Me
 
-- 🧠 Coding bots (snipers, scalpers, MEV...)
-- 🌊 Exploring DeFi protocols
-- 📊 Automation & data analysis
-- 🎨 Clean UI + dark logic
-
----
-
-### 🐱 Fun fact
-
-> "I'm probably wrapping SOL while you're reading this."
+- 💼 **Freelance Full-Stack Developer**  
+- 📱 Experienced in **React Native** and **offline-first mobile apps**  
+- 🌐 Skilled in **web systems, APIs, and automation**  
+- 🎯 Passionate about building **efficient workflows and great UX**  
+- 📨 **Contact:** hugo.devbr@gmail.com  
+- 🧑‍💻 **GitHub:** [Huguitossss](https://github.com/Huguitossss)
 
 ---
 
-Thanks for stopping by 🚀
+### 🚀 Tech Stack
+
+💻 **Languages:**  
+`Python` | `JavaScript` | `TypeScript` | `PHP`  
+
+⚙️ **Frameworks & Tools:**  
+`React` | `React Native` | `Vue.js` | `Angular` | `Node.js` | `Supabase` | `Docker`  
+
+🗄️ **Databases:**  
+`PostgreSQL` | `MySQL` | `SQLite`  
+
+---
+
+### 📌 Featured Projects
+
+- **[RDO Mobile]**  
+  Mobile app for drivers to manage operational reports, featuring **offline-first architecture, secure backend sync, and PDF generation**.
+
+- **[Tenebris]**  
+  Advanced automation hub with trading tools, bots, and analytics for Solana blockchain.
+
+---
+
+### 🎯 What I Do
+
+- 📱 Mobile app development (React Native)  
+- 🌐 Web systems & dashboards  
+- ⚙️ API integrations & backend solutions  
+- 📊 Workflow automation and data analysis  
+
+---
+
+### 🌱 Fun Fact
+
+> Always optimizing workflows – whether it’s for apps or for life.
+
+---
+
+Thanks for visiting! 🚀  
