@@ -11,7 +11,8 @@
 - 🌐 Skilled in **web systems, APIs, and automation**  
 - 🎯 Passionate about building **efficient workflows and great UX**  
 - 📨 **Contact:** hugo.devbr@gmail.com  
-- 🧑‍💻 **GitHub:** [Huguitossss](https://github.com/Huguitossss)
+- 🧑‍💻 **GitHub:** [ohugods](https://github.com/Huguitossss)
+- - 💼📨 **LinkedIn:** [hugods]([https://github.com/Huguitossss](https://www.linkedin.com/in/hugods/))
 
 ---
 
