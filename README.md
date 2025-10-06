@@ -12,7 +12,7 @@
 - 🎯 Passionate about building **efficient workflows and great UX**  
 - 📨 **Contact:** hugo.devbr@gmail.com  
 - 🧑‍💻 **GitHub:** [ohugods](https://github.com/Huguitossss)
-- - 💼📨 **LinkedIn:** [hugods]([https://github.com/Huguitossss](https://www.linkedin.com/in/hugods/))
+- - 💼📨 **LinkedIn:** [hugods](https://www.linkedin.com/in/hugods/)
 
 ---
 
