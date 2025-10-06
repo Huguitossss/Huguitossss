@@ -30,10 +30,13 @@
 
 ### 📌 Featured Projects
 
-- **[RDO Mobile]**  
+- **[VAPP]**  
   Mobile app for drivers to manage operational reports, featuring **offline-first architecture, secure backend sync, and PDF generation**.
 
-- **[Tenebris]**  
+- **[VADM]**  
+
+
+- **[Tenebris]** 
   Advanced automation hub with trading tools, bots, and analytics for Solana blockchain.
 
 ---
